@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @remilauzier
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on free software
-- 📫 How to reach me remilauzier@protonmail.com
+Hi, I’m Rémi Lauzier.
+I’m a fedora packager interest in the rust language.
+You can reach me at remilauzier@protonmail.com.
+You can visit my fedora wiki at https://fedoraproject.org/wiki/User:Remilauzier
 
 <!---
 remilauzier/remilauzier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
