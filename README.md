@@ -1,6 +1,6 @@
-Hi, I’m Rémi Lauzier.
-I’m a fedora packager interest in the rust language.
-You can reach me at remilauzier@protonmail.com.
+Hi, I’m Rémi Lauzier \
+I’m a fedora packager interest in the rust language \
+You can reach me at remilauzier@protonmail.com \
 You can visit my fedora wiki at https://fedoraproject.org/wiki/User:Remilauzier
 
 <!---
